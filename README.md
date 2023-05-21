@@ -1,3 +1,9 @@
+
+<img width="1440" alt="react_to_do_" src="https://github.com/Ivantsbn/React-todolist/assets/113232712/db9dc2f6-9461-43cc-ba7e-92aa2f121e69">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
